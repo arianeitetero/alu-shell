@@ -1,1 +1,1 @@
-This repository contains basic shell scripts.
+ added readme file
